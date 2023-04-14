@@ -4,8 +4,8 @@
 #include <fstream>
 #include <iostream>
 #include <math.h>
-#include <boost/gil/gil_all.hpp>
-#include <boost/gil/extension/io/png_dynamic_io.hpp>
+#include <boost/gil.hpp>
+#include <boost/gil/extension/io/png.hpp>
 #include <boost/shared_ptr.hpp>
 #include <sdf/sdf.hh>
 #include <ignition/math/Vector3.hh>
